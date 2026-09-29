@@ -1,0 +1,20 @@
+{
+  "name": "genpark-messaging-agent-proactive-nudge-scheduler-skill",
+  "version": "1.0.0",
+  "description": "Proactive contextual nudge scheduler for messaging-native personal agents with urgency decay and quiet-hours filtering",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "proactive-agent",
+    "nudge-scheduler",
+    "messaging-agent",
+    "imessage",
+    "whatsapp",
+    "context-aware",
+    "event-driven",
+    "agent-skills",
+    "ambient-computing",
+    "priority-scoring",
+    "life-assistant"
+  ]
+}
