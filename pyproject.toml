@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-messaging-agent-proactive-nudge-scheduler-skill"
+version = "1.0.0"
+description = "Proactive contextual nudge scheduler for messaging-native personal agents with urgency decay and quiet-hours filtering"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
