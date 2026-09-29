@@ -1,0 +1,6 @@
+name: genpark-messaging-agent-proactive-nudge-scheduler-skill
+version: 1.0.0
+description: Proactive contextual nudge scheduler for messaging-native personal agents with urgency decay and quiet-hours filtering
+command: python
+args:
+  - mcp_server.py
